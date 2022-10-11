@@ -14,3 +14,6 @@ As you can see in the results for the **month of June** the average temperature 
 
 ![Screen Shot 2022-10-11 at 4 38 42 PM](https://user-images.githubusercontent.com/110702997/195203286-e9dbf8af-3e56-45b5-8ef6-6cb9aaf64ad0.png)
 
+Now for December the average temperature is 71 degrees. The minimum temperature is 56 degrees and the maximum is 83 degrees. So both months are still about the same warmth but December reaches lower temperatures.
+
+
